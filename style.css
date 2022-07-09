@@ -1,0 +1,24 @@
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    color:white;
+
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.planning_text span
+{
+    color: orange;
+}
+
+.text-success text-capitalize
+{
+    color:white;
+}
